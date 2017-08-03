@@ -20,6 +20,3 @@ libs.MySQLDriver.classpath=\
     ${base}/MySQLDriver/mysql-connector-java-5.1.23-bin.jar
 libs.MySQLDriver.displayName=Driver MySQL JDBC 
 libs.MySQLDriver.prop-maven-dependencies=mysql:mysql-connector-java:5.1.23:jar
-libs.transguerra-classes.classpath=\
-    ${base}/transguerra-classes/classes-extraguerra.jar
-libs.transguerra-classes.displayName=Classes ExtraGuerra 
